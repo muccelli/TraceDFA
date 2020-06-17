@@ -1,0 +1,15 @@
+# Project
+/build/
+/lib/
+/doc/
+/output/
+/traces/
+
+# Produced by the program
+
+# Java
+*.class
+
+# Vim
+*.swp
+*.swo
